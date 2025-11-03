@@ -55,7 +55,7 @@ Create a Pivot Table and answer reflection questions:
 2. **SWITCH Function:** Categorise products based on Sales Volume:
 
 
-## 📅 Day 1: Task 1 — Tableau Versions
+## Day 1: Task 1 — Tableau Versions
 
 ### Objective
 Research the different versions of Tableau and explain the limited functionality of **Tableau Public**.
@@ -73,7 +73,7 @@ It is **not suitable for secure business environments** or private data analysis
 
 ---
 
-## 📊 Day 1: Task 2 — EMSI Job Change Dashboard
+## Day 1: Task 2 — EMSI Job Change Dashboard
 
 ### Objective
 Using the **EMSI_JobChange_UK** dataset:
@@ -83,7 +83,7 @@ Using the **EMSI_JobChange_UK** dataset:
 
 ---
 
-## 🎧 Day 2: Task 1 — Spotify Dataset Analysis
+## Day 2: Task 1 — Spotify Dataset Analysis
 
 ### Objective
 Analyse Spotify data to identify trends and insights for potential organisational use.
@@ -111,7 +111,7 @@ Through visualisation and data modelling, NHS leaders could prioritise areas of 
 
 ---
 
-## ⚙️ Day 3: Task 1 — Power BI Lab 1: Get Data
+## Day 3: Task 1 — Power BI Lab 1: Get Data
 
 ### Objective
 Complete **Lab 1 – Get Data in Power BI Desktop**.  
@@ -119,7 +119,7 @@ Learn how to connect, transform, and import data sources into Power BI.
 
 ---
 
-## ⚙️ Day 3: Task 2 — Power BI Lab 2: Load Transformed Data
+## Day 3: Task 2 — Power BI Lab 2: Load Transformed Data
 
 ### Objective
 Complete **Lab 2 – Load Transformed Data in Power BI Desktop**.  
