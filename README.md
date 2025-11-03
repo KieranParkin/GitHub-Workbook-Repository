@@ -54,5 +54,73 @@ Create a Pivot Table and answer reflection questions:
 1. **Pivot Table:** Summarise by County (rows) and Product (columns) with Sales Volume as value.  
 2. **SWITCH Function:** Categorise products based on Sales Volume:
 
-```excel
-=SWITCH(TRUE, C2 > 600, "High", C2 >= 300, "Medium", "Low")
+
+## 📅 Day 1: Task 1 — Tableau Versions
+
+### Objective
+Research the different versions of Tableau and explain the limited functionality of **Tableau Public**.
+
+### Findings
+Tableau offers multiple versions that connect directly to a wide variety of data sources, including Salesforce, Microsoft SQL, AWS, and more.  
+However, **Tableau Public** is limited in scope — it only allows access to **local data sources** such as spreadsheets, text files, or Tableau Data Extracts.  
+
+This makes Tableau Public best suited for:
+- Learning and portfolio building  
+- Sharing visualisations publicly online  
+- Non-confidential or open datasets  
+
+It is **not suitable for secure business environments** or private data analysis.
+
+---
+
+## 📊 Day 1: Task 2 — EMSI Job Change Dashboard
+
+### Objective
+Using the **EMSI_JobChange_UK** dataset:
+- Create a **dashboard** featuring:
+  - A **bar chart** showing **percentage change**
+  - A **UK map** displaying key impacted city locations  
+
+---
+
+## 🎧 Day 2: Task 1 — Spotify Dataset Analysis
+
+### Objective
+Analyse Spotify data to identify trends and insights for potential organisational use.
+
+### Findings
+- **Most popular artist:** Drake (31,703 popularity score)  
+- **Energy vs. popularity:** No clear correlation — high-energy tracks do not guarantee high popularity.  
+- **Tempo influence:** Minimal effect — higher tempo does not necessarily increase popularity.  
+
+---
+
+## Day 2: Task 2 — Health Dataset Analysis
+
+### Objective
+Analyse the Health dataset for trends and reflect on how this data could support **NHS** decision-making.
+
+
+### Reflection
+Health data has the potential to:
+- Identify **trends in patient outcomes** and **resource allocation**  
+- Support **predictive analytics** for staffing and emergency response  
+- Enable **data-driven decisions** for service improvements and funding priorities  
+
+Through visualisation and data modelling, NHS leaders could prioritise areas of highest impact and improve patient care delivery.
+
+---
+
+## ⚙️ Day 3: Task 1 — Power BI Lab 1: Get Data
+
+### Objective
+Complete **Lab 1 – Get Data in Power BI Desktop**.  
+Learn how to connect, transform, and import data sources into Power BI.
+
+---
+
+## ⚙️ Day 3: Task 2 — Power BI Lab 2: Load Transformed Data
+
+### Objective
+Complete **Lab 2 – Load Transformed Data in Power BI Desktop**.  
+Understand how to clean, shape, and load data efficiently.
