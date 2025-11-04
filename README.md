@@ -1,126 +1,50 @@
-# GitHub-Workbook-Repository
-Projects from Data Bootcamp
-Day 1: Excel
-**Name:** Kieran Parkin  
-**Course Date:** 22/09/2025
-## Day 1: Task 1
-### Common Data Laws and Regulations
-| Regulation | Description | Importance | Real-world Example | Impact on Data Work | Consequences of Breach |
-|-------------|--------------|-------------|---------------------|----------------------|------------------------|
-| **Data Protection Act (DPA)** | Controls how personal information is used by organisations. | Ensures fair and secure data handling. | Staying vigilant against phishing and malicious data gathering. | Requires careful compliance to prevent breaches. | Example: Yahoo! fined £250,000 for 2014 breach exposing 500M users. |
-| **GDPR** | EU regulation protecting personal data and privacy. | Strengthens consumer rights and data correction/deletion. | Checking company data usage and signing GDPR compliance forms. | Enforces lawful handling and storage of personal data. | Fines up to €20M or 4% of global turnover. |
-| **Freedom of Information Act (FOI)** | Provides access to recorded information held by UK public authorities. | Promotes transparency and accountability. | Used to reveal police costs for a football match (£2M). | Public bodies must provide requested info in 20 days. | Fines or contempt of court for blocking or altering info. |
-| **Computer Misuse Act** | Illegal to access or modify computer data without permission. | Protects systems from hacking and malware. | 2017: Two men arrested for attempting to hack Microsoft. | Ensures ethical IT use. | Offences can lead to fines or imprisonment. |
-## Day 2: Task 1
+# [cite_start] Weekly Learning and Activities Summary [cite: 1]
 
-Tasks to complete within `retail_sales_dataset.xlsx`:
-
-1. Convert data (A–J) into a **Table**.  
-2. Sort the **Age** column (largest → smallest).  
-3. Use **SUM** in `M10` to calculate total commission.  
-4. Use **AVERAGE** in `M11` to calculate average commission.
-## Day 3: Task 1
-
-Dataset: `Day_3_Task_1_Bike_Sales_Pivot_Lab.xlsx`  
-Create a Pivot Table and answer reflection questions:
-
-- **Markets for Germany:** Adults aged 35–64 (13 orders)  
-- **Country with sales in all markets:** United Kingdom  
-- **Most profitable:**
-  - Country: United States (66)
-  - Age Group: Adults 35–64 (99)
-  - Gender: Female (108)
-- **Findings:** Data shows increasing sales with age — older demographics order more bikes.
-## Day 3: Task 2
-### Dataset
-
-| County | Product | Sales Volume |
-|---------|----------|--------------|
-| Yorkshire | Laptops | 500 |
-| Yorkshire | Smartphones | 200 |
-| Cornwall | Laptops | 700 |
-| Cornwall | Printers | 400 |
-| Lancashire | Smartphones | 150 |
-| Lancashire | Laptops | 600 |
-| Essex | Printers | 800 |
-| Essex | Smartphones | 300 |
-| Durham | Laptops | 250 |
-| Durham | Printers | 300 |
-| Greater Manchester | Smartphones | 600 |
-| Greater Manchester | Laptops | 400 |
-
-### Steps
-
-1. **Pivot Table:** Summarise by County (rows) and Product (columns) with Sales Volume as value.  
-2. **SWITCH Function:** Categorise products based on Sales Volume:
-
-
-## Day 1: Task 1 — Tableau Versions
-
-### Objective
-Research the different versions of Tableau and explain the limited functionality of **Tableau Public**.
-
-### Findings
-Tableau offers multiple versions that connect directly to a wide variety of data sources, including Salesforce, Microsoft SQL, AWS, and more.  
-However, **Tableau Public** is limited in scope — it only allows access to **local data sources** such as spreadsheets, text files, or Tableau Data Extracts.  
-
-This makes Tableau Public best suited for:
-- Learning and portfolio building  
-- Sharing visualisations publicly online  
-- Non-confidential or open datasets  
-
-It is **not suitable for secure business environments** or private data analysis.
+[cite_start]This document outlines the learning activities and skills I developed during my **Data Technician course** this week[cite: 2].
 
 ---
 
-## Day 1: Task 2 — EMSI Job Change Dashboard
+## Day 1: Understanding Data Regulations 
 
-### Objective
-Using the **EMSI_JobChange_UK** dataset:
-- Create a **dashboard** featuring:
-  - A **bar chart** showing **percentage change**
-  - A **UK map** displaying key impacted city locations  
+[cite_start]On Day 1, I researched and explored key data protection laws including the **Data Protection Act**, **GDPR**, **Freedom of Information Act**, and the **Computer Misuse Act**[cite: 4].
 
----
-
-## Day 2: Task 1 — Spotify Dataset Analysis
-
-### Objective
-Analyse Spotify data to identify trends and insights for potential organisational use.
-
-### Findings
-- **Most popular artist:** Drake (31,703 popularity score)  
-- **Energy vs. popularity:** No clear correlation — high-energy tracks do not guarantee high popularity.  
-- **Tempo influence:** Minimal effect — higher tempo does not necessarily increase popularity.  
+* [cite_start]I learned about their purposes, why they are important, and how they apply to real-world data handling[cite: 5].
+* [cite_start]I also looked into the potential consequences of breaching these laws [cite: 6] [cite_start]and reflected on how they impact the way I handle and protect data[cite: 6].
 
 ---
 
-## Day 2: Task 2 — Health Dataset Analysis
+## Day 2: Working with Excel Data 
 
-### Objective
-Analyse the Health dataset for trends and reflect on how this data could support **NHS** decision-making.
+[cite_start]During Day 2, I focused on developing my **Excel skills**[cite: 8].
 
-
-### Reflection
-Health data has the potential to:
-- Identify **trends in patient outcomes** and **resource allocation**  
-- Support **predictive analytics** for staffing and emergency response  
-- Enable **data-driven decisions** for service improvements and funding priorities  
-
-Through visualisation and data modelling, NHS leaders could prioritise areas of highest impact and improve patient care delivery.
+* [cite_start]I created tables, sorted data using filters, and used the **SUM** and **AVERAGE** functions to calculate commission values[cite: 9].
+* [cite_start]I also experimented with different datasets to strengthen my ability to **clean and organize data efficiently**[cite: 10].
 
 ---
 
-## Day 3: Task 1 — Power BI Lab 1: Get Data
+## Day 3: Data Analysis and Visualisation 
 
-### Objective
-Complete **Lab 1 – Get Data in Power BI Desktop**.  
-Learn how to connect, transform, and import data sources into Power BI.
+[cite_start]On Day 3, I worked with datasets such as the **Bike Sales dataset** [cite: 12] [cite_start]to create **Pivot Tables** and analyze sales trends[cite: 12].
+
+* [cite_start]I identified market trends by country, age group, and gender[cite: 13].
+* [cite_start]I used formulas like **SWITCH** to categorize sales volumes[cite: 13].
+* [cite_start]I also practiced creating **data visualisations** to help communicate insights more clearly and effectively[cite: 14].
 
 ---
 
-## Day 3: Task 2 — Power BI Lab 2: Load Transformed Data
+## Day 4: Presenting Data Insights 
 
-### Objective
-Complete **Lab 2 – Load Transformed Data in Power BI Desktop**.  
-Understand how to clean, shape, and load data efficiently.
+[cite_start]Day 4 was focused on communication and presentation[cite: 15].
+
+* [cite_start]I prepared for how I would present my analysis findings to a **board of directors**, focusing on **customer retention and churn** at the 12-month mark[cite: 16].
+* [cite_start]I researched effective presentation tools, public speaking techniques, and visualization methods that would support a professional and engaging delivery[cite: 17].
+
+---
+
+## Reflection 
+
+[cite_start]Throughout the week, I improved my understanding of **data regulations**, **analytical methods**, and **presentation skills**[cite: 19].
+
+* [cite_start]I gained confidence in using **Excel for data analysis**[cite: 20].
+* [cite_start]I explored **visualization techniques**[cite: 20].
+* [cite_start]I developed a better understanding of how to **communicate insights clearly** to different audiences[cite: 20].
