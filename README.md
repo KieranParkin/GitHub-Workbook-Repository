@@ -50,6 +50,9 @@ I gained confidence in using Excel for data analysis.
 I explored visualization techniques.
 
 I developed a better understanding of how to communicate insights clearly to different audiences.
+
+<img width="972" height="609" alt="image" src="https://github.com/user-attachments/assets/2205d10e-353a-4198-9110-6a0fa2231095" />
+
 Week 2
 
 Day 1: Tableau Exploration and Dashboard Creation
@@ -86,6 +89,8 @@ I conducted an analysis on the Health data set to find trends and key informatio
 
 I reflected on how this data could support decision-making for the NHS, knowing that data can be lifesaving and is being used more within the NHS.
 
+<img width="1363" height="691" alt="image" src="https://github.com/user-attachments/assets/2240a421-8988-4a57-9ed8-6174f7e48e54" />
+
 Week 3
 
 Weekly Summary – SQL and Database Fundamentals
@@ -103,6 +108,8 @@ Later in the week, I worked on a written database design task for a small retail
 Finally, I completed a SQL practical exercise using the world_db database. I ran a variety of SQL queries to retrieve and analyse data, such as counting cities in the USA, finding the country with the highest life expectancy, listing cities with populations over two million, and identifying cities starting with certain prefixes. I also used SQL functions to group, order, and limit results, applying real-world scenarios such as travel promotions, demographic analysis, and investment research.
 
 Overall, this week strengthened my understanding of database design, SQL syntax, and practical data analysis. I gained confidence in writing SQL queries and understanding how databases are structured and used to support business operations.
+
+<img width="512" height="460" alt="image" src="https://github.com/user-attachments/assets/0bdea542-a243-4550-8287-a2350608c8ba" />
 
 Week 4
 
@@ -139,9 +146,8 @@ Outlining a data modelling approach for key data categories.
 Mandating compliance with GDPR and the DPA 2018.
 
 Incorporating essential technical considerations such as data storage formats (Parquet for analytics), data security (encryption and access controls), and a strategy for Backup and Disaster Recovery.
-Week 5
 
-Statement of Achievement: Data Technician Workbook - Week 5
+Week 5
 
 During Week 5, I focused entirely on developing my programming and data manipulation skills, successfully completing foundational tasks in Python and numerous practical exercises using the Pandas library for data analysis.
 
@@ -186,3 +192,5 @@ Real-World Data Handling
 Individual Practice (Day 4): I independently applied my core Pandas skills on the ‘GDP (nominal) per Capita’ dataset. This practice included reading the file into a DataFrame, inspecting the first 10 and last 5 rows, and selecting specific columns ('Country/Territory' and 'UN_Region').
 
 Export and Collaboration: I completed the data pipeline by writing code to save the final transformed DataFrame (with the new 'grade' column) to a new CSV file. I also participated in group activities to further embed my Python skills by working through a dedicated notebook and exploring additional datasets.
+
+<img width="512" height="460" alt="image" src="https://github.com/user-attachments/assets/475bb6ad-288d-4046-b42a-2afba66bda95" />
