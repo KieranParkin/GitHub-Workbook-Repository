@@ -193,4 +193,5 @@ Individual Practice (Day 4): I independently applied my core Pandas skills on th
 
 Export and Collaboration: I completed the data pipeline by writing code to save the final transformed DataFrame (with the new 'grade' column) to a new CSV file. I also participated in group activities to further embed my Python skills by working through a dedicated notebook and exploring additional datasets.
 
-<img width="512" height="460" alt="image" src="https://github.com/user-attachments/assets/475bb6ad-288d-4046-b42a-2afba66bda95" />
+<img width="1062" height="707" alt="image" src="https://github.com/user-attachments/assets/e8546282-d388-459a-8627-16586bb12be5" />
+
