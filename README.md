@@ -109,7 +109,7 @@ Finally, I completed a SQL practical exercise using the world_db database. I ran
 
 Overall, this week strengthened my understanding of database design, SQL syntax, and practical data analysis. I gained confidence in writing SQL queries and understanding how databases are structured and used to support business operations.
 
-<img width="512" height="460" alt="image" src="https://github.com/user-attachments/assets/0bdea542-a243-4550-8287-a2350608c8ba" />
+<img width="1231" height="329" alt="image" src="https://github.com/user-attachments/assets/9961016e-ec64-48f7-ba71-39a9cd56ecdf" />
 
 Week 4
 
