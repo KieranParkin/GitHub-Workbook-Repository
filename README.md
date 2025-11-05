@@ -86,6 +86,24 @@ I conducted an analysis on the Health data set to find trends and key informatio
 
 I reflected on how this data could support decision-making for the NHS, knowing that data can be lifesaving and is being used more within the NHS.
 
+Week 3
+
+Weekly Summary – SQL and Database Fundamentals
+
+This week, I focused on developing my understanding of databases and practical SQL skills.
+
+At the start of the week, I researched the key concepts of databases, learning about primary, secondary, and foreign keys, as well as different types of relationships between tables such as one-to-one, one-to-many, and many-to-many. I explored how these relationships are used to link tables and organise data effectively.
+
+I also looked into the difference between relational and non-relational databases, understanding that relational databases use structured tables with defined relationships, whereas non-relational databases are better suited for flexible, unstructured, or large-scale data systems.
+
+Midweek, I studied the various types of SQL joins — including INNER, LEFT, RIGHT, FULL, CROSS, and SELF joins — and how they are used to combine data from multiple tables. I gave examples of when each join would be useful, such as linking students with their courses or products with their suppliers.
+
+Later in the week, I worked on a written database design task for a small retail business. I explained how I would create a relational database to manage products, sales, customers, and a loyalty program. I outlined the structure of the database, how the tables would link together, and demonstrated how to create and populate them using SQL commands like CREATE TABLE and INSERT INTO.
+
+Finally, I completed a SQL practical exercise using the world_db database. I ran a variety of SQL queries to retrieve and analyse data, such as counting cities in the USA, finding the country with the highest life expectancy, listing cities with populations over two million, and identifying cities starting with certain prefixes. I also used SQL functions to group, order, and limit results, applying real-world scenarios such as travel promotions, demographic analysis, and investment research.
+
+Overall, this week strengthened my understanding of database design, SQL syntax, and practical data analysis. I gained confidence in writing SQL queries and understanding how databases are structured and used to support business operations.
+
 Week 4
 
 During Week 4, I successfully completed all required research, practical Azure labs, and the final consultancy report preparation, demonstrating a strong understanding of Cloud Computing Concepts and UK Data Laws and Regulations.
